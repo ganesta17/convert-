@@ -4,6 +4,6 @@
     $ pkg install git
     $ pip install requests
     $ git clone https://github.com/ganesta17/convert-
-    $ cd Convert
+    $ cd convert-
     $ git pull
     $ python Run.py
